@@ -1,3 +1,5 @@
+#-- Programa hola mundo en RISC-V
+#-- Esto son comentarios
 	.data
 str:	.asciz "Hola mundo en RISC-V!\n"
 	
