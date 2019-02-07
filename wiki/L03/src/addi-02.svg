@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="398.75995mm"
+   height="79.808647mm"
+   viewBox="0 0 398.75995 79.808644"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="addi-02.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8185"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8183"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7345"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7343"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6385"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6383"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path909"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path909-6"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="753.65361"
+     inkscape:cy="183.46036"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-5.0781207,-62.343311)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.35732055;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1647"
+       width="398.75995"
+       height="79.808647"
+       x="5.0781207"
+       y="62.343311"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.0781207,-62.343311)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="381.48389"
+       y="96.993309"
+       id="text921-2-09"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1"
+         x="381.48389"
+         y="96.993309"
+         style="stroke-width:0.52078122">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="311.4574"
+       y="96.993309"
+       id="text921-2-2-1-08"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-3-2-8"
+         x="311.4574"
+         y="96.993309"
+         style="stroke-width:0.52078122">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="299.83282"
+       y="96.993309"
+       id="text921-2-0-7-9-5"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-62-5-3-0"
+         x="299.83282"
+         y="96.993309"
+         style="stroke-width:0.52078122">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="253.70654"
+       y="96.993309"
+       id="text921-2-0-7-1-4"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-62-5-0-8"
+         x="253.70654"
+         y="96.993309"
+         style="stroke-width:0.52078122">11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="243.10487"
+       y="96.993309"
+       id="text921-2-9-6-1"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-2-3-0"
+         x="243.10487"
+         y="96.993309"
+         style="stroke-width:0.52078122">12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="219.20474"
+       y="96.993309"
+       id="text921-2-2-1-4-7"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-3-2-7-6"
+         x="219.20474"
+         y="96.993309"
+         style="stroke-width:0.52078122">14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="207.58014"
+       y="96.993309"
+       id="text921-2-0-7-9-6-3"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-62-5-3-5-1"
+         x="207.58014"
+         y="96.993309"
+         style="stroke-width:0.52078122">15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="161.45381"
+       y="96.993309"
+       id="text921-2-0-7-8-4"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-62-5-6-1"
+         x="161.45381"
+         y="96.993309"
+         style="stroke-width:0.52078122">19</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="150.85222"
+       y="96.993309"
+       id="text921-2-9-8-8"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-2-8-5"
+         x="150.85222"
+         y="96.993309"
+         style="stroke-width:0.52078122">20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="23.074766"
+       y="96.993309"
+       id="text921-2-0-7-9-6-9-9"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-62-5-3-5-4-2"
+         x="23.074766"
+         y="96.993309"
+         style="stroke-width:0.52078122">31</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="86.983543"
+       y="113.26028"
+       id="text817-36"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-7"
+         x="86.983543"
+         y="113.26028"
+         style="fill:#ff00ff;stroke-width:0.52078122">imm12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="181.44812"
+       y="112.9521"
+       id="text817-3-7-5"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-6-5-6"
+         x="181.44812"
+         y="112.9521"
+         style="fill:#ff6600;stroke-width:0.52078122">rs1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="277.42068"
+       y="113.69608"
+       id="text817-3-7-3-6-1"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-6-5-5-2-2"
+         x="277.42068"
+         y="113.69608"
+         style="fill:#008000;stroke-width:0.52078122">rd</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52078122;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect909-9-9"
+       width="369.38269"
+       height="17.855358"
+       x="17.774004"
+       y="100.67655"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 375.53215,100.71314 v 2.82762"
+       id="path1022-15-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 363.90755,100.71315 v 2.82761"
+       id="path1022-6-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 352.283,100.71315 v 2.82761"
+       id="path1022-1-7-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 340.6584,100.71315 v 2.82761"
+       id="path1022-6-8-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 329.40579,100.71314 v 2.82762"
+       id="path1022-9-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 317.78119,100.71315 v 2.82761"
+       id="path1022-6-7-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 306.15665,100.71315 v 17.95884"
+       id="path1022-1-3-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 294.53204,100.71315 v 2.82761"
+       id="path1022-6-8-6-9-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 283.27948,100.71314 v 2.82762"
+       id="path1022-8-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 271.65488,100.71315 v 2.82761"
+       id="path1022-6-4-1-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260.03033,100.71315 v 2.82761"
+       id="path1022-1-5-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 248.40571,100.71314 v 17.80462"
+       id="path1022-6-8-0-5-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 237.15313,100.71314 v 2.82762"
+       id="path1022-9-6-4-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 225.52852,100.71315 v 2.82761"
+       id="path1022-6-7-1-4-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 213.90397,100.71316 v 17.68905"
+       id="path1022-1-3-5-4-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 202.27937,100.71315 v 2.82761"
+       id="path1022-6-8-6-5-4-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 191.02679,100.71314 v 2.82762"
+       id="path1022-5-2-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 179.40218,100.71315 v 2.82761"
+       id="path1022-6-47-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 167.77764,100.71315 v 2.82761"
+       id="path1022-1-4-7-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.15303,100.71314 v 17.82057"
+       id="path1022-6-8-4-8-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.90043,100.71314 v 2.82762"
+       id="path1022-9-1-5-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.27582,100.71315 v 2.82761"
+       id="path1022-6-7-4-3-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.65128,100.71315 v 2.82761"
+       id="path1022-1-3-9-8-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.02667,100.71315 v 2.82761"
+       id="path1022-6-8-6-2-8-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 87.149514,100.71315 v 2.82761"
+       id="path1022-6-4-5-8-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.524968,100.71315 v 2.82761"
+       id="path1022-1-5-0-6-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.900358,100.71315 v 2.82761"
+       id="path1022-6-8-0-4-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.647764,100.71314 v 2.82762"
+       id="path1022-9-6-6-4-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.023156,100.71315 v 2.82761"
+       id="path1022-6-7-1-1-3-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 29.39861,100.71315 v 2.82761"
+       id="path1022-1-3-5-0-0-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52078122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.774104,100.71315 v 2.82761"
+       id="path1022-6-4-5-8-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="312.96866"
+       y="112.57919"
+       id="text921-2-09-3"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6"
+         x="312.96866"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="323.9267"
+       y="112.57919"
+       id="text921-2-09-3-7"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-5"
+         x="323.9267"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="335.95383"
+       y="112.57919"
+       id="text921-2-09-3-3"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-56"
+         x="335.95383"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="346.91187"
+       y="112.57919"
+       id="text921-2-09-3-7-2"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-5-9"
+         x="346.91187"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="358.13721"
+       y="112.57919"
+       id="text921-2-09-3-7-1"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-5-2"
+         x="358.13721"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="370.16434"
+       y="112.57919"
+       id="text921-2-09-3-3-7"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-56-0"
+         x="370.16434"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="381.12238"
+       y="112.57919"
+       id="text921-2-09-3-7-2-9"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-5-9-3"
+         x="381.12238"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="220.76067"
+       y="112.57919"
+       id="text921-2-09-3-6"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-0"
+         x="220.76067"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="231.7187"
+       y="112.57919"
+       id="text921-2-09-3-7-6"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-5-26"
+         x="231.7187"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.3324995px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.52078122"
+       x="243.74583"
+       y="112.57919"
+       id="text921-2-09-3-3-1"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L03/ensamblado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan919-7-1-6-56-8"
+         x="243.74583"
+         y="112.57919"
+         style="fill:#0000ff;stroke-width:0.52078122">0</tspan></text>
+  </g>
+</svg>
