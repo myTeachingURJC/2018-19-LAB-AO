@@ -342,11 +342,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="610.1411"
-     inkscape:cy="175.87747"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="677.17868"
+     inkscape:cy="217.82457"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
      showguides="true"
@@ -354,7 +354,7 @@
      inkscape:window-width="1853"
      inkscape:window-height="1025"
      inkscape:window-x="67"
-     inkscape:window-y="1107"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -368,7 +368,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1389,7 +1389,7 @@
          id="tspan1693-8"
          x="177.28349"
          y="124.13777"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.92058563">addi <tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.92058563">add <tspan
    style="fill:#008000"
    id="tspan1250">rd</tspan><tspan
    style="fill:#000000;stroke-width:0.92058563"
