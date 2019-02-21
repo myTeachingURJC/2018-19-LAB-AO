@@ -16,9 +16,6 @@ var2:   .word 0xFACEB00C
 	# -- Escribimos la variable 1 sobre variable 2
 	sw t1, 4(t0)
 	
-	#-- El programa principal
-	#-- no hace nada
-	
 	#--- Terminar
 	li a7, 10
 	ecall
