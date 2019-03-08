@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="316.74405mm"
+   height="120.19643mm"
+   viewBox="0 0 316.74405 120.19642"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="palindromo-02.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5875"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5873"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1081"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1081-2-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-1-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1081-2-8-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-1-9-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1081-2-8-2-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-1-9-2-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1081-2-8-2-3-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-1-9-2-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1081-2-8-2-3-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-1-9-2-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1081-2-8-2-3-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5998"
+       x="-0.92352396"
+       width="2.8470478"
+       y="-1.6685691"
+       height="4.3371382">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="116.93847"
+         id="feGaussianBlur6000" />
+    </filter>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5875-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5873-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="650.53827"
+     inkscape:cy="215.24262"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="display:inline"
+     transform="translate(58.208336,-12.761902)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57592577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5998)"
+       id="rect5956"
+       width="303.89285"
+       height="168.1994"
+       x="-58.586308"
+       y="20.699404"
+       transform="matrix(0.88811982,0,0,0.95056179,3.6415764,9.3388178)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6026"
+       width="316.74405"
+       height="120.19643"
+       x="-58.208336"
+       y="12.761902"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L07/palindromo-02.png"
+       inkscape:export-xdpi="88.720551"
+       inkscape:export-ydpi="88.720551" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(58.208336,-12.761902)">
+    <g
+       id="g1046"
+       transform="translate(-16.252976,-5.2916667)"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L07/palindromo-02.png"
+       inkscape:export-xdpi="88.720551"
+       inkscape:export-ydpi="88.720551">
+      <rect
+         y="76.639885"
+         x="35.529762"
+         height="34.395832"
+         width="166.17331"
+         id="rect910"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text817"
+         y="101.20833"
+         x="49.829144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.01155853px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458335"
+           y="101.20833"
+           x="49.829144"
+           id="tspan815"
+           sodipodi:role="line">r</tspan></text>
+      <text
+         id="text817-3"
+         y="101.20833"
+         x="69.861885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.01156044px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458338"
+           y="101.20833"
+           x="69.861885"
+           id="tspan815-6"
+           sodipodi:role="line">o</tspan></text>
+      <text
+         id="text817-3-7"
+         y="101.20833"
+         x="91.406525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.01156044px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458341"
+           y="101.20833"
+           x="91.406525"
+           id="tspan815-6-5"
+           sodipodi:role="line">t</tspan></text>
+      <text
+         id="text817-3-7-3"
+         y="101.20833"
+         x="113.70712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.01156044px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458341"
+           y="101.20833"
+           x="113.70712"
+           id="tspan815-6-5-5"
+           sodipodi:role="line">o</tspan></text>
+      <text
+         id="text817-3-7-3-6"
+         y="101.20833"
+         x="136.3857"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.01156044px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458341"
+           y="101.20833"
+           x="136.3857"
+           id="tspan815-6-5-5-2"
+           sodipodi:role="line">r</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path912"
+         d="M 57.641368,76.639879 V 111.03571"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path912-9"
+         d="M 81.075892,76.639879 V 111.03571"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path912-9-1"
+         d="M 101.29762,76.639879 V 111.03571"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path912-9-1-2"
+         d="M 125.86607,76.639879 V 111.03571"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text817-3-7-3-6-7"
+         y="100.57977"
+         x="161.0079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.48514557px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458341"
+           y="100.57977"
+           x="161.0079"
+           id="tspan815-6-5-5-2-0"
+           sodipodi:role="line">\n</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path912-9-1-2-9"
+         d="M 146.65476,76.639879 V 111.03571"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text817-3-7-3-6-7-3"
+         y="100.57977"
+         x="188.85536"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.48514557px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458341"
+           y="100.57977"
+           x="188.85536"
+           id="tspan815-6-5-5-2-0-6"
+           sodipodi:role="line">\0</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path912-9-1-2-9-0"
+         d="M 173.64898,76.639879 V 111.03571"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62480974px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458338"
+       x="-15.087103"
+       y="37.048805"
+       id="text1050-1"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L07/palindromo-02.png"
+       inkscape:export-xdpi="88.720551"
+       inkscape:export-ydpi="88.720551"><tspan
+         sodipodi:role="line"
+         x="-15.087103"
+         y="37.048805"
+         style="fill:#0000ff;stroke-width:0.26458338"
+         id="tspan5834-9">Puntero izquierdo</tspan><tspan
+         sodipodi:role="line"
+         x="-15.087103"
+         y="46.579819"
+         style="fill:#0000ff;stroke-width:0.26458338"
+         id="tspan5863">(t0)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5875)"
+       d="M 17.008928,40.354165 H 29.104166 V 70.970237"
+       id="path5865"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L07/palindromo-02.png"
+       inkscape:export-xdpi="88.720551"
+       inkscape:export-ydpi="88.720551" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62480974px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+       x="167.47539"
+       y="37.048805"
+       id="text1050-1-7"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L07/palindromo-02.png"
+       inkscape:export-xdpi="88.720551"
+       inkscape:export-ydpi="88.720551"><tspan
+         sodipodi:role="line"
+         x="167.47539"
+         y="37.048805"
+         style="fill:#0000ff;stroke-width:0.26458341"
+         id="tspan5834-9-5">Puntero derecho</tspan><tspan
+         sodipodi:role="line"
+         x="167.47539"
+         y="46.579819"
+         style="fill:#0000ff;stroke-width:0.26458341"
+         id="tspan5863-3">(t1)</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5875-3)"
+       d="M 131.40373,40.354165 H 119.30849 V 70.970236"
+       id="path5865-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-LAB-AO/wiki/L07/palindromo-02.png"
+       inkscape:export-xdpi="88.720551"
+       inkscape:export-ydpi="88.720551" />
+  </g>
+</svg>
