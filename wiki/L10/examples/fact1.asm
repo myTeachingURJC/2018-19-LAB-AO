@@ -27,7 +27,7 @@ fact1:  #-- Como vamos a llamar a una subrutina,
         addi sp, sp, -32
         sw ra, 28(sp)
         sw s0, 24(sp)
-        addi s0, s0, 28
+        addi s0, sp, 28
         
         #----- Calcular el factorial: 1 * fact0
         
