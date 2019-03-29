@@ -16,7 +16,6 @@
 	sw t1, 4(a0)
 	
 	#-- Reservar el segundo bloque de 10 bytes
-	#-- Reservar el primer bloque de 10 bytes
 	li a0, 10
 	li a7, 9   #-- Sbrk
 	ecall
